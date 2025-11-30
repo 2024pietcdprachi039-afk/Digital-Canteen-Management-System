@@ -1,1 +1,2 @@
 # Digital-Canteen-Management-System
+The Digital Canteen Management System is a web-based platform designed to simplify and modernize the food ordering process within an educational institution. Traditional canteen operations face challenges such as long queues, delayed service, manual record-keeping, and lack of transparency in order status. This project aims to solve these issues by providing a digital, fast, and user-friendly system that connects students and canteen administrators on one platform.
